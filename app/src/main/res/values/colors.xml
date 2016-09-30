@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8AB3D5</color>
+    <color name="colorPrimaryDark">#6495C5</color>
+    <color name="colorAccent">#F5A623</color>
+    <color name="repositoryListUserBgColor">#EAEAEA</color>
+    <color name="repositoryListTitleColor">#3A6577</color>
+    <color name="repositoryListSubtitleColor">#535B63</color>
+    <color name="repositoryListDetailColor">#6B6B6B</color>
+    <color name="requestListOpenColor">#535B63</color>
+    <color name="requestListClosedColor">#97867D</color>
+    <color name="detailColor">#9B9B9B</color>
+    <color name="requestDateColor">#C9C8CA</color>
+    <color name="requestUserDataColor">#EAEAEA</color>
+
+</resources>

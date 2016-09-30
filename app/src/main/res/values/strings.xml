@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub List</string>
+
+    <string name="error">Erro recebido: %s</string>
+    <string name="loading">Carregando</string>
+    <string name="repo_list_title">Repositórios</string>
+    <string name="request_list_title">Pull Requests</string>
+    <string name="request_open_title">Aberto</string>
+    <string name="request_closed_title">Fechado</string>
+
+    <string name="empty_request_list_error">Não existem Pull Requests</string>
+    <string name="empty_request_body">...</string>
+</resources>
